@@ -11,10 +11,10 @@ The Bogosort algorithm operates by repeatedly shuffling the elements of an array
 3. Return to the first step and repeat until the array is sorted.
 
 ### Performance
-* **Average:** Ø(n*n!)
-* **Best:** Ω(n)
-* **Worst:** unbounded
-* **Space:** O(1)
+| Average   | Best  | Worst    | Space |
+|-----------|------|---------|-------|
+| Ø(n*n!)   | Ω(n) | unbounded | O(1) |
+
 
 ### Preview
 <p align="center">

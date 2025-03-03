@@ -1,6 +1,6 @@
 
 # bogosort
-This repository contains a visualized and threaded implementation of the [Bogosort](https://en.wikipedia.org/wiki/Bogosort) algorithm in C#.
+This repository contains a visualized and multithreaded implementation of the [Bogosort](https://en.wikipedia.org/wiki/Bogosort) algorithm in C#.
 
 ### Description
 The Bogosort algorithm operates by repeatedly shuffling the elements of an array until they are in sorted order.

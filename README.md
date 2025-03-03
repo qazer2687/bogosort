@@ -5,7 +5,7 @@ This repository contains a visualized and threaded implementation of the [Bogoso
 ### Description
 The Bogosort algorithm operates by repeatedly shuffling the elements of an array until they are in sorted order.
 
-#### Procedure
+### Procedure
 1. Check if the array is sorted, terminate if so.
 2. If the array is not sorted, randomly permute its elements.
 3. Return to the first step and repeat until the array is sorted.
